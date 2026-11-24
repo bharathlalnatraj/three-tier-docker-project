@@ -1,0 +1,7 @@
+.env
+*.log
+__pycache__/
+*.pyc
+.terraform/
+/Dockerfile
+/index.html
